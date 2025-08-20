@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+This file was automatically created for demonstration.
+You can edit this file with your own content.
+Python file handling is an important skill for developers.
